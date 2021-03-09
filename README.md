@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-Wanna know who am I?
+### Wanna know who am I?
 
 👯 I am a developer who likes programming and technology. Everyday I learn new things and always get surprised of how dedicated and persistent I can be about new challenges. Computers are a passion that I find out during my first dbase classes and became a significant part of my job, studies and hobbies ever since.
 
